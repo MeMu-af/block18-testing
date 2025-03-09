@@ -2,8 +2,8 @@
 
 //--------------Multiplication-----------
 
-//Expect multiplication(2, 3) to be 6
-//Expect multiplication(0, 10) to be 0
+#//Expect multiplication(2, 3) to be 6
+#//Expect multiplication(0, 10) to be 0
 //Expect multiplication(-2, 3) to be -6
 //Expect multiplication(2, "a") to give an error
 //Expect multiplication() to give an error
